@@ -105,6 +105,12 @@ Additionally, CAPTCHA and advanced MFA functionality were researched conceptuall
 
 ---
 
+## Architecture Diagram
+
+An architecture diagram of the Active Directory security environment is included within the project folders.
+
+---
+
 ## Screenshots and Evidence
 
 Relevant configuration screenshots, access control examples, Group Policy settings, and Active Directory structures are included within the project folders.
