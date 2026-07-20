@@ -1,1 +1,25 @@
+# macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Virtual machines
+*.vmdk
+*.vdi
+*.ova
+*.iso
+
+# Archives
+*.zip
