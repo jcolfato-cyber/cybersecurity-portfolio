@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio – Jon Carlo Yuzon Olfato
 
-Cybersecurity professional candidate currently completing a Master of Business Information Systems (Cyber Security) at the Australian Institute of Higher Education, Australia.
+Cybersecurity graduate candidate currently completing a Master of Business Information Systems (Cyber Security) in Sydney, Australia.
 
 I am transitioning into cybersecurity after developing enterprise experience at Samsung Electro-Mechanics Philippines, where I supported operational analytics, compliance initiatives, reporting systems, process improvement activities, and collaboration with enterprise IT stakeholders.
 
@@ -14,7 +14,7 @@ My cybersecurity focus areas include:
 - Enterprise Security Architecture
 - Cloud Security
 
-This profile highlights cybersecurity projects focused on enterprise security operations, identity management, governance, risk management, cloud security, and security monitoring.
+This profile documents cybersecurity projects developed through postgraduate study and independent technical labs, focusing on enterprise security operations, identity management, governance, risk management, cloud security, and security monitoring.
 
 ---
 
