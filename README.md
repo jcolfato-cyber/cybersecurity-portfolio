@@ -23,15 +23,14 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 
 ## Completed
 
-- Google Cybersecurity Professional Certificate  
-  Completed: May 2026
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fd69647e-8cef-4974-ad6c-a89f5ddab537" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Google Cybersecurity Professional Certificate  
+- Completed: May 2026
+- Credential: https://www.credly.com/badges/fd69647e-8cef-4974-ad6c-a89f5ddab537
 
 ## In Progress
 
-- CompTIA Security+  
-  Target Completion: August 2026
+### CompTIA Security+  
+- Target Completion: August 2026
 
 ---
 
