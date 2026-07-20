@@ -2,124 +2,253 @@
 
 ## About Me
 
-Cybersecurity graduate candidate currently pursuing a Master of Business Information Systems (Cyber Security) at the Australian Institute of Higher Education, Australia. Combining enterprise experience in manufacturing operations and compliance with hands-on cybersecurity projects involving Active Directory, threat modeling, digital forensics, and security assessment.
+Cybersecurity professional candidate currently completing a Master of Business Information Systems (Cyber Security) at the Australian Institute of Higher Education, Australia.
 
-I am transitioning into cybersecurity after gaining enterprise experience at Samsung Electro-Mechanics Philippines, where I supported analytics, compliance initiatives, reporting systems, operational monitoring, and cross-functional projects involving engineering and IT stakeholders.
+I am transitioning into cybersecurity after developing enterprise experience at Samsung Electro-Mechanics Philippines, supporting operational analytics, compliance activities, reporting systems, process improvement initiatives, and collaboration with enterprise IT stakeholders.
 
-My interests include cybersecurity operations, identity and access management, governance, risk and compliance (GRC), vulnerability management, digital forensics, and enterprise security.
+My cybersecurity focus areas include:
 
-This portfolio showcases cybersecurity projects completed through university studies, independent learning, and personal laboratory environments.
+- Identity and Access Management (IAM)
+- Security Operations (SOC)
+- Governance, Risk and Compliance (GRC)
+- Vulnerability Management
+- Threat Modeling
+- Enterprise Security Architecture
+
+This portfolio documents hands-on cybersecurity projects developed through academic coursework, independent learning, and personal laboratory environments.
 
 ---
 
-## Technical Skills
+# Certifications & Professional Development
 
-### Cybersecurity & Systems
+## Completed
+
+- Google Cybersecurity Professional Certificate  
+  Completed: May 2026
+
+## In Progress
+
+- CompTIA Security+  
+  Target Completion: August 2026
+
+---
+
+# Technical Skills
+
+## Identity & Access Management
 
 - Active Directory
 - Windows Server 2022
-- Group Policy Management
-- Identity and Access Management (IAM)
+- Group Policy Objects (GPO)
+- User and Group Management
 - Role-Based Access Control (RBAC)
-- Access Control
-- Security Policy Enforcement
-- Vulnerability Assessment
-- Threat Modeling
-- Linux Administration
+- Least Privilege Access
+- Authentication Controls
 
-### Security Tools
+## Security Operations
+
+- Security Monitoring
+- Log Analysis
+- Incident Investigation
+- Network Traffic Analysis
+- Vulnerability Assessment
+- Security Hardening
+
+## Governance, Risk & Compliance
+
+- Risk Assessment
+- Security Controls Mapping
+- ACSC Essential Eight
+- APRA CPS 234 Concepts
+- NIST Cybersecurity Framework Concepts
+
+## Security Tools
 
 - Wireshark
 - Nmap
+- Nessus
 - Nikto
 - Amass
-- Sublist3r
-- DIG
 - WHOIS
+- DIG
 - OWASP Threat Dragon
 - FTK Imager
 - WinHex
 
-### Programming & Analytics
+## Systems & Platforms
 
-- Python
-- PostgreSQL
+- Windows Server 2022
+- Windows 11
+- Linux
+- Ubuntu
+- Kali Linux
+- UTM Virtualisation
 - GitHub
-- Microsoft Excel
-- TIBCO Spotfire
-- Dashboard Development
-- KPI Reporting
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Active Directory Home Lab
-
-Built and administered an Active Directory environment using Windows Server 2022 and Windows 11 virtual machines. Implemented Group Policy Objects (GPOs), role-based access control, authentication policies, and least privilege principles while exploring backup and recovery planning concepts.
-
-#### Key Areas
-
-- Active Directory Administration
-- User and Group Management
-- Group Policy Management
-- RBAC
-- Identity and Access Management
-- Windows Server Administration
+## Academic Baseline Projects
 
 ---
 
-### STRIDE Threat Modeling for Banking System
+## Hospital Active Directory Security Lab
 
-Developed a STRIDE threat model for a banking system application using OWASP Threat Dragon. Identified potential threats and recommended security controls including multi-factor authentication, role-based access control, encryption, logging, monitoring, and account protection mechanisms.
+Repository:
+[hospital-active-directory-lab](https://github.com/jcolfato-cyber/hospital-active-directory-lab)
 
-#### Key Areas
+Designed and implemented an enterprise-style Active Directory environment based on a simulated hospital organisation.
 
-- Threat Modeling
-- Secure Architecture Review
-- Risk Identification
-- Security Controls
-- OWASP Threat Dragon
+Key concepts demonstrated:
 
----
-
-### Digital Forensics Investigation Lab
-
-Performed digital forensic analysis using FTK Imager and WinHex. Conducted hash verification, metadata analysis, and hexadecimal file signature validation to identify discrepancies between file extensions and underlying file formats.
-
-#### Key Areas
-
-- Digital Forensics
-- Evidence Acquisition
-- Hash Verification
-- Metadata Analysis
-- File Signature Analysis
+- Windows Server 2022 Domain Controller deployment
+- Active Directory administration
+- Organisational Unit (OU) design
+- Group Policy implementation
+- RBAC access control
+- Least privilege principles
+- User and group management
 
 ---
 
-## Professional Development
+## Online Banking STRIDE Threat Modeling
 
-- Google Cybersecurity Professional Certificate (Completed May 2026)
-- CompTIA Security+ (Expected July 2026)
-- Security Analyst Level 1 (SAL1) (Target Completion: September 2026)
-- GRC Mastery (Target Completion: November 2026)
+Repository:
+[online-banking-stride-threat-model](https://github.com/jcolfato-cyber/online-banking-stride-threat-model)
+
+Developed a threat model for a simulated online banking platform using OWASP Threat Dragon and the STRIDE methodology.
+
+Security areas assessed:
+
+- Authentication security
+- Transaction integrity
+- Trust boundaries
+- Data protection
+- Availability risks
+- Security control recommendations
+
+Demonstrated:
+
+- Threat identification
+- STRIDE analysis
+- Secure architecture review
+- Risk mitigation planning
 
 ---
 
-## Professional Background
+# Enterprise Banking Security Sandbox
 
-Prior to transitioning into cybersecurity, I worked as a Facilities Engineer and Manufacturing Engineer at Samsung Electro-Mechanics Philippines, supporting operational analytics, compliance activities, reporting systems, process improvement initiatives, and collaboration with enterprise IT stakeholders. I also contributed to the design of an internal monitoring system involving user profile segmentation, access management concepts, and collaboration with IT teams supporting enterprise operational technology environments.
-
-This background provides practical experience working within large-scale enterprise environments where security, compliance, governance, and operational reliability are critical.
+The following projects form an interconnected enterprise banking security environment built using UTM virtualisation and cloud platforms.
 
 ---
 
-## Connect With Me
+## Secure Enterprise Network Lab
 
-**LinkedIn:**  
+Repository:
+Coming Soon
+
+Core infrastructure environment containing:
+
+- Kali Linux security testing workstation
+- Windows Server 2022 domain services
+- Windows 11 enterprise endpoint
+- Ubuntu security services server
+
+Focus areas:
+
+- Network segmentation
+- Enterprise authentication
+- Security monitoring
+- Infrastructure security testing
+
+---
+
+## Enterprise Banking GRC Assessment
+
+Repository:
+Coming Soon
+
+Security governance assessment project mapping technical findings against:
+
+- ACSC Essential Eight
+- APRA CPS 234
+- NIST Cybersecurity Framework
+
+Focus areas:
+
+- Risk identification
+- Control assessment
+- Security recommendations
+- Compliance reporting
+
+---
+
+## Enterprise Banking IAM Architecture
+
+Repository:
+Coming Soon
+
+Secure identity architecture implementation covering:
+
+- Active Directory design
+- Authentication services
+- RBAC models
+- Privileged access management concepts
+- Identity security controls
+
+---
+
+## Cloud Banking Infrastructure Hardening
+
+Repository:
+Coming Soon
+
+Cloud security project focused on:
+
+- AWS security configuration
+- CIS Benchmark alignment
+- Identity security
+- Infrastructure hardening
+
+---
+
+## Enterprise Banking SIEM Sentinel
+
+Repository:
+Coming Soon
+
+Security monitoring environment focused on:
+
+- Microsoft Sentinel deployment
+- Log collection
+- Detection engineering
+- Security incident investigation
+
+---
+
+# Professional Background
+
+Before transitioning into cybersecurity, I worked as a Facilities Engineer and Manufacturing Engineer at Samsung Electro-Mechanics Philippines.
+
+My previous experience involved:
+
+- Enterprise reporting systems
+- Operational analytics
+- Compliance activities
+- Process improvement
+- Cross-functional collaboration with IT stakeholders
+
+This experience provides a foundation in enterprise environments where reliability, governance, operational security, and process control are critical.
+
+---
+
+# Connect
+
+LinkedIn:
 
 www.linkedin.com/in/joncarloolfato
 
-**GitHub:**  
+GitHub:
 
 https://github.com/jcolfato-cyber
