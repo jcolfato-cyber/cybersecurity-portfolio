@@ -1,10 +1,8 @@
 # Cybersecurity Portfolio – Jon Carlo Yuzon Olfato
 
-## About Me
-
 Cybersecurity professional candidate currently completing a Master of Business Information Systems (Cyber Security) at the Australian Institute of Higher Education, Australia.
 
-I am transitioning into cybersecurity after developing enterprise experience at Samsung Electro-Mechanics Philippines, supporting operational analytics, compliance activities, reporting systems, process improvement initiatives, and collaboration with enterprise IT stakeholders.
+I am transitioning into cybersecurity after developing enterprise experience at Samsung Electro-Mechanics Philippines, where I supported operational analytics, compliance initiatives, reporting systems, process improvement activities, and collaboration with enterprise IT stakeholders.
 
 My cybersecurity focus areas include:
 
@@ -12,10 +10,11 @@ My cybersecurity focus areas include:
 - Security Operations (SOC)
 - Governance, Risk and Compliance (GRC)
 - Vulnerability Management
-- Threat Modeling
+- Threat Modelling
 - Enterprise Security Architecture
+- Cloud Security
 
-This portfolio documents hands-on cybersecurity projects developed through academic coursework, independent learning, and personal laboratory environments.
+This profile highlights cybersecurity projects focused on enterprise security operations, identity management, governance, risk management, cloud security, and security monitoring.
 
 ---
 
@@ -23,14 +22,34 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 
 ## Completed
 
-### Google Cybersecurity Professional Certificate  
-- Completed: May 2026
-- Credential: https://www.credly.com/badges/fd69647e-8cef-4974-ad6c-a89f5ddab537
+### Google Cybersecurity Professional Certificate
+
+Completed: May 2026
+
+Credential:
+https://www.credly.com/badges/fd69647e-8cef-4974-ad6c-a89f5ddab537
+
 
 ## In Progress
 
-### CompTIA Security+  
-- Target Completion: August 2026
+### CompTIA Security+
+
+Target Completion: August 2026
+
+
+### GRC Mastery Course
+
+Target Completion: November 2026
+
+
+### CCSK v5
+
+Target Completion: December 2026
+
+
+### AWS Certified Solutions Architect - Associate
+
+Target Completion: 2026/2027
 
 ---
 
@@ -45,6 +64,8 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 - Role-Based Access Control (RBAC)
 - Least Privilege Access
 - Authentication Controls
+- Identity Governance Concepts
+
 
 ## Security Operations
 
@@ -54,6 +75,8 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 - Network Traffic Analysis
 - Vulnerability Assessment
 - Security Hardening
+- Detection Engineering Concepts
+
 
 ## Governance, Risk & Compliance
 
@@ -62,6 +85,9 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 - ACSC Essential Eight
 - APRA CPS 234 Concepts
 - NIST Cybersecurity Framework Concepts
+- Security Policy Assessment
+- Control Gap Analysis
+
 
 ## Security Tools
 
@@ -75,6 +101,8 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 - OWASP Threat Dragon
 - FTK Imager
 - WinHex
+- Microsoft Sentinel
+
 
 ## Systems & Platforms
 
@@ -85,40 +113,48 @@ This portfolio documents hands-on cybersecurity projects developed through acade
 - Kali Linux
 - UTM Virtualisation
 - GitHub
+- AWS Cloud Concepts
 
 ---
 
-# Featured Projects
+# Portfolio Architecture
 
-## Academic Baseline Projects
+This portfolio is structured into standalone repositories representing different areas of enterprise cybersecurity.
 
 ---
+
+# Academic Baseline Projects
 
 ## Hospital Active Directory Security Lab
 
 Repository:
-[hospital-active-directory-lab](https://github.com/jcolfato-cyber/hospital-active-directory-lab)
 
-Designed and implemented an enterprise-style Active Directory environment based on a simulated hospital organisation.
+https://github.com/jcolfato-cyber/hospital-active-directory-lab
 
-Key concepts demonstrated:
 
-- Windows Server 2022 Domain Controller deployment
+Implemented an enterprise-style Active Directory environment using Windows Server 2022 and Windows 11 virtual machines.
+
+Demonstrated:
+
+- Domain Controller deployment
 - Active Directory administration
 - Organisational Unit (OU) design
 - Group Policy implementation
 - RBAC access control
-- Least privilege principles
 - User and group management
+- Least privilege principles
+
 
 ---
 
 ## Online Banking STRIDE Threat Modeling
 
 Repository:
-[online-banking-stride-threat-model](https://github.com/jcolfato-cyber/online-banking-stride-threat-model)
 
-Developed a threat model for a simulated online banking platform using OWASP Threat Dragon and the STRIDE methodology.
+https://github.com/jcolfato-cyber/online-banking-stride-threat-model
+
+
+Developed a STRIDE threat model for a simulated online banking platform using OWASP Threat Dragon.
 
 Security areas assessed:
 
@@ -129,10 +165,11 @@ Security areas assessed:
 - Availability risks
 - Security control recommendations
 
+
 Demonstrated:
 
 - Threat identification
-- STRIDE analysis
+- STRIDE methodology
 - Secure architecture review
 - Risk mitigation planning
 
@@ -140,21 +177,24 @@ Demonstrated:
 
 # Enterprise Banking Security Sandbox
 
-The following projects form an interconnected enterprise banking security environment built using UTM virtualisation and cloud platforms.
+A connected security laboratory environment designed to simulate enterprise banking infrastructure using UTM virtualisation, Windows Server, Linux systems, and cloud platforms.
 
 ---
 
 ## Secure Enterprise Network Lab
 
 Repository:
+
 Coming Soon
+
 
 Core infrastructure environment containing:
 
-- Kali Linux security testing workstation
+- Kali Linux security workstation
 - Windows Server 2022 domain services
 - Windows 11 enterprise endpoint
 - Ubuntu security services server
+
 
 Focus areas:
 
@@ -168,7 +208,9 @@ Focus areas:
 ## Enterprise Banking GRC Assessment
 
 Repository:
+
 Coming Soon
+
 
 Security governance assessment project mapping technical findings against:
 
@@ -176,26 +218,30 @@ Security governance assessment project mapping technical findings against:
 - APRA CPS 234
 - NIST Cybersecurity Framework
 
+
 Focus areas:
 
 - Risk identification
 - Control assessment
+- Gap analysis
 - Security recommendations
-- Compliance reporting
+- Risk register development
 
 ---
 
 ## Enterprise Banking IAM Architecture
 
 Repository:
+
 Coming Soon
 
-Secure identity architecture implementation covering:
 
-- Active Directory design
+Enterprise identity security implementation covering:
+
+- Active Directory architecture
 - Authentication services
 - RBAC models
-- Privileged access management concepts
+- Privileged access concepts
 - Identity security controls
 
 ---
@@ -203,7 +249,9 @@ Secure identity architecture implementation covering:
 ## Cloud Banking Infrastructure Hardening
 
 Repository:
+
 Coming Soon
+
 
 Cloud security project focused on:
 
@@ -211,20 +259,74 @@ Cloud security project focused on:
 - CIS Benchmark alignment
 - Identity security
 - Infrastructure hardening
+- Cloud security controls
 
 ---
 
 ## Enterprise Banking SIEM Sentinel
 
 Repository:
+
 Coming Soon
+
 
 Security monitoring environment focused on:
 
 - Microsoft Sentinel deployment
 - Log collection
 - Detection engineering
-- Security incident investigation
+- Threat investigation
+- Security incident analysis
+
+---
+
+# Cybersecurity Development Roadmap
+
+## 2026 Security Engineering Roadmap
+
+1. Google Cybersecurity Professional Certificate  
+   Completed - May 2026
+
+2. CompTIA Security+  
+   Target Completion - August 2026
+
+3. Enterprise GRC Gap Assessment & Risk Register  
+   Focus:
+   - ACSC Essential Eight
+   - APRA CPS 234
+   - Security control mapping
+
+4. GRC Mastery Course  
+   Focus:
+   - Security frameworks
+   - Governance processes
+   - Policy development
+
+5. Enterprise IAM / Least Privilege Active Directory Architecture  
+   Focus:
+   - Windows Server 2022
+   - Identity security
+   - RBAC implementation
+
+6. CCSK v5  
+   Focus:
+   - Cloud security principles
+   - Cloud governance
+
+7. Cloud Misconfiguration Hunt & Hardening  
+   Focus:
+   - AWS security assessment
+   - CIS Benchmark alignment
+
+8. Enterprise SIEM Investigation  
+   Focus:
+   - Microsoft Sentinel
+   - Log analysis
+   - Detection engineering
+
+9. AWS Certified Solutions Architect - Associate  
+   Focus:
+   - Cloud infrastructure architecture
 
 ---
 
@@ -240,7 +342,8 @@ My previous experience involved:
 - Process improvement
 - Cross-functional collaboration with IT stakeholders
 
-This experience provides a foundation in enterprise environments where reliability, governance, operational security, and process control are critical.
+
+This background provides experience working within enterprise environments where reliability, governance, operational security, and process control are critical.
 
 ---
 
@@ -248,7 +351,8 @@ This experience provides a foundation in enterprise environments where reliabili
 
 LinkedIn:
 
-www.linkedin.com/in/joncarloolfato
+https://www.linkedin.com/in/joncarloolfato
+
 
 GitHub:
 
