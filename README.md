@@ -1,10 +1,12 @@
-# Cybersecurity Portfolio – Jon Carlo Yuzon Olfato
+# Cybersecurity Portfolio | Jon Carlo Yuzon Olfato
 
 Cybersecurity-focused technology professional currently completing a Master of Business Information Systems (Cyber Security) in Australia.
 
-Before transitioning into cybersecurity, I developed enterprise experience at Samsung Electro-Mechanics Philippines supporting operational analytics, compliance activities, reporting systems, process improvement initiatives, and collaboration with engineering and IT stakeholders.
+Before transitioning into cybersecurity, I worked at Samsung Electro-Mechanics Philippines as a Facilities Engineer (Critical Infrastructure & ISO 50001 Compliance) and Manufacturing Engineer (Process Compliance & Data Integrity).
 
-This background provides experience working in environments where operational reliability, governance, documentation control, and process discipline are critical.
+My experience included enterprise reporting systems, operational analytics, compliance initiatives, documentation control, process improvement activities, and collaboration with engineering and IT stakeholders.
+
+This background developed my understanding of environments where operational reliability, governance, audit readiness, data integrity, and process discipline are critical.
 
 My cybersecurity focus areas include:
 
@@ -79,7 +81,7 @@ https://www.credly.com/badges/fd69647e-8cef-4974-ad6c-a89f5ddab537
 - OWASP Threat Dragon
 - FTK Imager
 - WinHex
-- Microsoft Sentinel
+- Microsoft Sentinel Concepts
 
 ## Systems & Platforms
 
@@ -100,7 +102,7 @@ This portfolio is structured into standalone repositories representing different
 
 ---
 
-# Academic Baseline Projects
+# Academic Cybersecurity Projects
 
 The following projects were completed during postgraduate cybersecurity studies and represent foundational implementations of enterprise security concepts.
 
@@ -154,189 +156,35 @@ Demonstrated:
 
 # Enterprise Banking Security Sandbox
 
-A connected security laboratory environment designed to simulate enterprise banking infrastructure using UTM virtualisation, Windows Server, Linux systems, and cloud platforms.
+A connected cybersecurity laboratory environment designed to simulate enterprise infrastructure using UTM virtualisation, Windows Server, Linux systems, and cloud platforms.
 
-Future projects will expand security capabilities across infrastructure security, governance, identity management, cloud security, and monitoring.
+This environment provides the foundation for future security engineering projects covering infrastructure security, governance, identity management, cloud security, and security monitoring.
 
----
-
-## Secure Enterprise Network Lab
-
-Repository:
-
-Coming Soon
-
-Core infrastructure environment containing:
-
-- Windows Server 2022 domain services
-- Windows 11 enterprise endpoint
-- Ubuntu security services server
-- Kali Linux security workstation
-
-Focus areas:
-
-- Network segmentation
-- Enterprise authentication
-- Infrastructure security testing
-- Security monitoring foundations
-
----
-
-## Enterprise Banking GRC Assessment
-
-Repository:
-
-Coming Soon
-
-Security governance assessment mapping technical findings against:
-
-- ACSC Essential Eight
-- APRA CPS 234
-- NIST Cybersecurity Framework
-
-Focus areas:
-
-- Risk identification
-- Control assessment
-- Gap analysis
-- Security recommendations
-- Risk register development
-
----
-
-## Enterprise Banking IAM Architecture
-
-Repository:
-
-Coming Soon
-
-Enterprise identity security implementation covering:
-
-- Active Directory architecture
-- Authentication services
-- RBAC models
-- Privileged access concepts
-- Identity security controls
-
----
-
-## Cloud Banking Infrastructure Hardening
-
-Repository:
-
-Coming Soon
-
-Cloud security project focused on:
-
-- AWS security configuration
-- CIS Benchmark alignment
-- Identity security
-- Infrastructure hardening
-- Cloud security controls
-
----
-
-## Enterprise Banking SIEM Sentinel
-
-Repository:
-
-Coming Soon
-
-Security monitoring environment focused on:
-
-- Microsoft Sentinel deployment
-- Log collection
-- Detection engineering
-- Threat investigation
-- Security incident analysis
+| Repository | Type | Status |
+| --- | --- | --- |
+| Secure Enterprise Network Lab | Infrastructure Security Lab | Planned |
+| Enterprise Banking GRC Assessment | Governance & Risk Project | Planned |
+| Enterprise Banking IAM Architecture | Identity Security Lab | Planned |
+| Cloud Banking Infrastructure Hardening | Cloud Security Lab | Planned |
+| Enterprise Banking SIEM Sentinel | Security Operations Lab | Planned |
 
 ---
 
 # Professional Development Roadmap
 
-## 2026 – 2027 Security Engineering Roadmap
+The following roadmap represents my planned progression across cybersecurity certifications, technical projects, and enterprise security capabilities.
 
-### Completed
-
-1. Google Cybersecurity Professional Certificate
-
-Completed: May 2026
-
-### Current Focus
-
-2. CompTIA Security+
-
-Target Completion: August 2026
-
-### Planned Development
-
-3. Enterprise GRC Gap Assessment & Risk Register
-
-Focus:
-
-- ACSC Essential Eight
-- APRA CPS 234
-- Security control mapping
-
-4. GRC Mastery Course
-
-Focus:
-
-- Security frameworks
-- Governance processes
-- Policy development
-
-5. Enterprise IAM / Least Privilege Active Directory Architecture
-
-Focus:
-
-- Windows Server 2022
-- Identity security
-- RBAC implementation
-
-6. CCSK v5
-
-Focus:
-
-- Cloud security principles
-- Cloud governance
-
-7. Cloud Misconfiguration Hunt & Hardening
-
-Focus:
-
-- AWS security assessment
-- CIS Benchmark alignment
-
-8. Enterprise SIEM Investigation
-
-Focus:
-
-- Microsoft Sentinel
-- Log analysis
-- Detection engineering
-
-9. AWS Certified Solutions Architect – Associate
-
-Focus:
-
-- Cloud infrastructure architecture
-
----
-
-# Professional Background
-
-Before transitioning into cybersecurity, I worked as a Facilities Engineer and Manufacturing Engineer at Samsung Electro-Mechanics Philippines.
-
-Experience included:
-
-- Enterprise reporting systems
-- Operational analytics
-- Compliance activities
-- Process improvement
-- Cross-functional collaboration with IT stakeholders
-
-This experience developed my understanding of enterprise operations, governance requirements, and technology environments where security and reliability are critical.
+| Step | Type | Initiative | Status | Target | Focus Areas |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Certification | Google Cybersecurity Professional Certificate | Completed | May 2026 | Security fundamentals, SIEM concepts, incident response, risk management |
+| 2 | Certification | CompTIA Security+ | In Progress | August 2026 | Security operations, threats, vulnerabilities, security controls |
+| 3 | Project / Future Repository | Enterprise GRC Gap Assessment & Risk Register | Planned | 2026 | ACSC Essential Eight, APRA CPS 234, NIST CSF, control mapping, risk assessment |
+| 4 | Course / Professional Development | GRC Mastery Course | Planned | Sep–Oct 2026 | Governance frameworks, policies, compliance processes |
+| 5 | Project / Future Repository | Enterprise IAM & Least Privilege Active Directory Architecture | Planned | 2026 | Windows Server 2022, Active Directory, RBAC, privileged access management |
+| 6 | Certification | Certificate of Cloud Security Knowledge (CCSK v5) | Planned | Nov–Dec 2026 | Cloud security principles, governance, cloud risk management |
+| 7 | Project / Future Repository | Cloud Banking Infrastructure Hardening | Planned | 2026–2027 | AWS security assessment, CIS Benchmarks, identity security, cloud controls |
+| 8 | Project / Future Repository | Enterprise SIEM Investigation with Microsoft Sentinel | Planned | 2026–2027 | Log analysis, detection engineering, incident investigation |
+| 9 | Certification | AWS Certified Solutions Architect - Associate | Planned | Early 2027 | Cloud architecture, infrastructure design, AWS services |
 
 ---
 
