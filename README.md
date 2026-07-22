@@ -81,7 +81,7 @@ https://www.credly.com/badges/fd69647e-8cef-4974-ad6c-a89f5ddab537
 - OWASP Threat Dragon
 - FTK Imager
 - WinHex
-- Microsoft Sentinel Concepts
+- Microsoft Sentinel
 
 ## Systems & Platforms
 
@@ -92,7 +92,7 @@ https://www.credly.com/badges/fd69647e-8cef-4974-ad6c-a89f5ddab537
 - Kali Linux
 - UTM Virtualisation
 - GitHub
-- AWS Cloud Concepts
+- AWS Cloud
 
 ---
 
@@ -156,35 +156,34 @@ Demonstrated:
 
 # Enterprise Banking Security Sandbox
 
-A connected cybersecurity laboratory environment designed to simulate enterprise infrastructure using UTM virtualisation, Windows Server, Linux systems, and cloud platforms.
+The following repositories form an interconnected enterprise banking environment built on a dedicated four-VM laboratory using UTM. Each repository focuses on a specific security discipline while sharing a common enterprise infrastructure.
 
-This environment provides the foundation for future security engineering projects covering infrastructure security, governance, identity management, cloud security, and security monitoring.
-
-| Repository | Type | Status |
+| Repository | Focus | Status |
 | --- | --- | --- |
-| Secure Enterprise Network Lab | Infrastructure Security Lab | Planned |
-| Enterprise Banking GRC Assessment | Governance & Risk Project | Planned |
-| Enterprise Banking IAM Architecture | Identity Security Lab | Planned |
-| Cloud Banking Infrastructure Hardening | Cloud Security Lab | Planned |
-| Enterprise Banking SIEM Sentinel | Security Operations Lab | Planned |
+| Secure Enterprise Network Lab | Core Infrastructure | Planned |
+| Enterprise Banking IAM Architecture | Identity & Access Management | Planned |
+| Enterprise Banking GRC Assessment | Governance, Risk & Compliance | Planned |
+| Cloud Banking Infrastructure Hardening | AWS Security | Planned |
+| Enterprise Banking SIEM Sentinel | Security Operations | Planned |
 
 ---
 
 # Professional Development Roadmap
 
-The following roadmap represents my planned progression across cybersecurity certifications, technical projects, and enterprise security capabilities.
+The following roadmap represents my planned progression through cybersecurity certifications, enterprise laboratory projects, and practical security engineering capabilities.
 
 | Step | Type | Initiative | Status | Target | Focus Areas |
-| --- | --- | --- | --- | --- | --- |
+| :--: | --- | --- | --- | --- | --- |
 | 1 | Certification | Google Cybersecurity Professional Certificate | Completed | May 2026 | Security fundamentals, SIEM concepts, incident response, risk management |
 | 2 | Certification | CompTIA Security+ | In Progress | August 2026 | Security operations, threats, vulnerabilities, security controls |
-| 3 | Project / Future Repository | Enterprise GRC Gap Assessment & Risk Register | Planned | 2026 | ACSC Essential Eight, APRA CPS 234, NIST CSF, control mapping, risk assessment |
-| 4 | Course / Professional Development | GRC Mastery Course | Planned | Sep–Oct 2026 | Governance frameworks, policies, compliance processes |
-| 5 | Project / Future Repository | Enterprise IAM & Least Privilege Active Directory Architecture | Planned | 2026 | Windows Server 2022, Active Directory, RBAC, privileged access management |
-| 6 | Certification | Certificate of Cloud Security Knowledge (CCSK v5) | Planned | Nov–Dec 2026 | Cloud security principles, governance, cloud risk management |
-| 7 | Project / Future Repository | Cloud Banking Infrastructure Hardening | Planned | 2026–2027 | AWS security assessment, CIS Benchmarks, identity security, cloud controls |
-| 8 | Project / Future Repository | Enterprise SIEM Investigation with Microsoft Sentinel | Planned | 2026–2027 | Log analysis, detection engineering, incident investigation |
-| 9 | Certification | AWS Certified Solutions Architect - Associate | Planned | Early 2027 | Cloud architecture, infrastructure design, AWS services |
+| 3 | Infrastructure Repository | Secure Enterprise Network Lab | Planned | August 2026 | Windows Server 2022, Windows 11, Ubuntu, Kali Linux, enterprise networking, Active Directory foundation |
+| 4 | Project Repository | Enterprise Banking IAM Architecture | Planned | September 2026 | Active Directory, OU design, Group Policy, RBAC, least privilege, identity management |
+| 5 | Project Repository | Enterprise Banking GRC Assessment | Planned | September 2026 | ACSC Essential Eight, APRA CPS 234, NIST CSF, risk assessment, security control mapping |
+| 6 | Professional Development | GRC Mastery | Planned | October 2026 | Governance frameworks, policies, compliance, enterprise risk management |
+| 7 | Project Repository | Cloud Banking Infrastructure Hardening | Planned | November 2026 | AWS security, CIS Benchmarks, IAM, cloud hardening, secure infrastructure |
+| 8 | Certification | Certificate of Cloud Security Knowledge (CCSK v5) | Planned | November–December 2026 | Cloud governance, cloud architecture, cloud security principles |
+| 9 | Project Repository | Enterprise Banking SIEM Sentinel | Planned | December 2026 | Microsoft Sentinel, log analysis, detection engineering, incident investigation |
+| 10 | Certification | AWS Certified Solutions Architect – Associate | Planned | Early 2027 | AWS architecture, infrastructure design, resilient cloud solutions |
 
 ---
 
